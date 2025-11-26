@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" alt="Blog Platform Screenshot" src="./Screenshoot.PNG" />
+<img width="1200" alt="Blog Platform Screenshot" src="./Screenshoots.PNG" />
 </div>
 
 # 🚀 UJNG Blog Platform - Modern Content Management System
